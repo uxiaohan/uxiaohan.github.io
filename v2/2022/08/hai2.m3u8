@@ -4,9 +4,9 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:5
 #EXTINF:4.200000,
-https://cache.4ce.cn/admin/extensions/game/screenshot/93765f1b9e06ecb4f5b6baa54a8e2d43.png
+https://api-storage.4ce.cn/v2/93765f1b9e06ecb4f5b6baa54a8e2d43.png
 #EXTINF:3.300000,
-https://cache.4ce.cn/admin/extensions/game/screenshot/0c85a300196bae1aee7ccfbe75900ac2.png
+https://api-storage.4ce.cn/v2/0c85a300196bae1aee7ccfbe75900ac2.png
 #EXTINF:1.833333,
-https://cache.4ce.cn/admin/extensions/game/screenshot/c2ee5326b68e9d9a49e1e76a7f82a1c0.png
+https://api-storage.4ce.cn/v2/c2ee5326b68e9d9a49e1e76a7f82a1c0.png
 #EXT-X-ENDLIST
