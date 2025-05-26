@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:5
+#EXTINF:4.200000,
+https://web-static.4ce.cn/storage/bucket/v2/67abcaabae16785c73af7a172c4d60d4.png
+#EXTINF:4.166667,
+https://web-static.4ce.cn/storage/bucket/v2/608fd56a89d5af706c0d1bd055e78bee.png
+#EXTINF:0.933333,
+https://web-static.4ce.cn/storage/bucket/v2/c0d48d6f34d1b009c9b0b7682a9bd467.png
+#EXT-X-ENDLIST
